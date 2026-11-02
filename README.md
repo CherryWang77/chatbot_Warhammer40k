@@ -1,5 +1,4 @@
 # Warhammer 40k RAG Chatbot
-*Course group project (two members)*
 
 ## Introduction
 
